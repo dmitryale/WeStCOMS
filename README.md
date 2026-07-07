@@ -1,5 +1,6 @@
 # WeStCOMS
-**We**stern (and Northern) **S**co**t**land **C**oastal **O**cean **M**odeling **S**ystem is the coupled atmosphere/ocean/waves hydrodynamic model capable of short-term 5-days forecats developed by Dr Dmitry Aleynik and run operationally at SAMS.ac.uk. It's based on WRF, FVCOM and SWAN source code.
+**We**stern (and Northern) **S**co**t**land **C**oastal **O**cean **M**odeling **S**ystem is the coupled atmosphere/ocean/waves hydrodynamic model capable of short-term 5-days forecats developed by Dr Dmitry Aleynik and run operationally at SAMS.ac.uk. It's based on WRF, FVCOM and SWAN source code. The latest WeStCOMS v3 Release: https://doi.org/10.5281/zenodo.21249519
+
 Access the latest output (v3) via: 
 
 https://www.sams.ac.uk/facilities/thredds/ 
