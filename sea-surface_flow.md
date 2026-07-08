@@ -7,6 +7,6 @@
    
 4. Select parameter, date & time to plot, export or download:
 
-[WeStCOMS3-SWAN wind](https://github.com/dmitryale/WeStCOMS/blob/master/WeStCOMS_Waves.PNG)
+![WeStCOMS3-SWAN wind](https://github.com/dmitryale/WeStCOMS/blob/master/WeStCOMS_Waves.PNG)
 
 5. [WeStCOMS3-SWAN wind link](https://thredds.sams.ac.uk/thredds/Godiva.html?permalinking=true&bgmap=NaturalEarth%20WMS&server=https://thredds.sams.ac.uk/thredds/wms/scoats-westcoms3/SWAN/Archive_forecast/netcdf_2026F/compgrid_20260703_000_v4.nc&numColorBands=20&logScale=false&bbox=-9.4854538440706,53.999900817871,-3.0468075275418,59.150817871094&abovemaxcolor=extend&belowmincolor=extend&nodatacolor=extend&layer=xwnd:ywnd-group&time=2026-07-04T12:00:00.000Z&palette=x-Rainbow&style=vector_wind_barbs&scaleRange=0.1762,11.69&displayScaleRange=0.1762,11.69&opacity=1)
