@@ -28,3 +28,13 @@ https://storymaps.arcgis.com/stories/d90cf58eeeac435b96c18946e955d02a
 __AGU Ocean Science Meeting 2026 in Glasgow :__
 
 https://osm26.ipostersessions.com/default.aspx?s=70-5A-B1-79-3C-C9-23-EC-5C-A9-E5-04-B6-AE-D5-F7  
+
+__Acknowledgments__  
+
+E(tive)lice: Revolutionizing sea lice detection for sustainable salmon farming and conservation, BB/Z515292/1,
+UK Research and Innovation 
+
+Aqua-Plankton: Plankton monitoring and risk assessment to safeguard finfish aquaculture, BB/Z515231/1,
+UK Research and Innovation
+
+COAST-SCAPES: rethinking COASTal landSCAPES with climate-resilient interventions: systemic land-to-sea solutions, [101213138](https://cordis.europa.eu/project/id/101213138), European Commission
